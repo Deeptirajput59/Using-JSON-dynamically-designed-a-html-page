@@ -1,0 +1,33 @@
+[ 
+    {
+        "Name": "COMMENTS",
+        "pgroup": "DATE",
+        "pname": "COMMENTS_DATE"
+     },
+     {  
+        "Name": "COMMENTS_NA",
+        "pgroup": "CHECK",
+        "pname": "INIT_NOT_APPLICABLE"
+      },
+      {  
+               
+        "Name": "COMMENTS_EMAIL",
+        "pgroup": "CHECK",
+        "pname": "INIT_EMAIL_OPTOUT"
+      },
+      {  
+        "Name": "COMMENTS",
+        "pgroup": "COMMENTS",
+        "pname": "COMMENTS_COMMENTS_HISTORY"
+       },
+        {  
+          "Name": "COMMENTS_COMMENTS_HISTORY",
+           "pgroup": "COMMENTS",
+           "pname": "COMMENTS_HISTORY"
+        },
+        {  
+          "Name": "ACTION_REQUIRED",
+          "pgroup": "DOCS", 
+          "pname": "ACTION_REQD_DOCS"                                  
+         }                         
+ ]                
